@@ -1,0 +1,15 @@
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\bin\Debug\netstandard2.0\CollectionView Movies App.deps.json
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\bin\Debug\netstandard2.0\CollectionView Movies App.dll
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\bin\Debug\netstandard2.0\ref\CollectionView Movies App.dll
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\bin\Debug\netstandard2.0\CollectionView Movies App.pdb
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\CollectionView Movies App.csproj.AssemblyReference.cache
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\CollectionView Movies App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\CollectionView Movies App.AssemblyInfoInputs.cache
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\CollectionView Movies App.AssemblyInfo.cs
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\CollectionView Movies App.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\CollectionView Movies App.dll
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\ref\CollectionView Movies App.dll
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App\obj\Debug\netstandard2.0\CollectionView Movies App.pdb

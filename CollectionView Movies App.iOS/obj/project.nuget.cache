@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFq0IEAzPEhRyTY4ViS8kmipn2Jg1d5FmdWWKuKQfvNvwpI4PNTRoPAB/y4rG4ahrDmFQyzynSDsvRRSjO53vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kiko\\source\\repos\\CollectionView Movies App\\CollectionView Movies App.iOS\\CollectionView Movies App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kiko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

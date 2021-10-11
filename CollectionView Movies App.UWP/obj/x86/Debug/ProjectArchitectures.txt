@@ -1,0 +1,1 @@
+C:\Users\Kiko\source\repos\CollectionView Movies App\CollectionView Movies App.UWP\CollectionView Movies App.UWP.csproj;x86
